@@ -1,0 +1,22 @@
+{
+  "name": "nordstrom",
+  "version": "1.0.0",
+  "description": "nordstrom payment encryption",
+  "main": "encrypt.js",
+  "scripts": {
+    "test": "node encrypt.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yousef200509/nordstrompaymentencrypt.git"
+  },
+  "author": "yousef",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yousef200509/nordstrompaymentencrypt/issues"
+  },
+  "homepage": "https://github.com/yousef200509/nordstrompaymentencrypt#readme",
+  "dependencies": {
+    "node-forge": "^0.10.0"
+  }
+}
