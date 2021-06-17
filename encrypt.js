@@ -1,6 +1,0 @@
-const encrypt = require("./ndenc2")
-
-const encryptedInfo = encrypt("222")
-console.log(encryptedInfo)
-
-// Hx7O9OdJpNS5OcumO6zYAeY4lREJfg9GTUmX%2B10XU0ulxR%2BSy%2F8lNWH9I6wtZINC%2BZpHO6zOvr9pZXWj8gnuK7sh%2Be0wree7hkTPBvZTJ6Zu7Bx5AXbyDHEijuqeEzel7XEFRTsHvW0LBGzfu4wtiAcGpOKNjU23NDwKO4qBVdcZPRW4KQXbXcO56%2BgAadNDfj57wb0sEq11NcIXp4Y4ybOmIOXNfQIxyLMxfx58VT6SYuwpny6D2Ruy9jZzG1J8KnT6ka1IGh46xbmZ%2FwZ2XcIhB0Ms7GdWO3%2FjgqBqBd04N58WTQM318jQBW7mlRlGjCsQ%2Br5Th9Lt9pUGtfV9iQ%3D%3D
